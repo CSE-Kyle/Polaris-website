@@ -1,0 +1,35 @@
+@media screen and (max-width: 425px) {
+  .main-heading {
+    font-size: 4rem;
+  }
+
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  img {
+    height: 18rem;
+  }
+
+  .phrase {
+    font-size: 0.8rem;
+  }
+
+  .copyright {
+    font-size: 0.7rem;
+  }
+
+  .instagram {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 512px) and (max-width: 629px) {
+  .main-heading {
+    font-size: 3rem;
+  }
+
+  img {
+    height: 20.5rem;
+  }
+}
