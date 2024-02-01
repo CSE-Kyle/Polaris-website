@@ -43,6 +43,10 @@ body {
   font-style: italic;
 }
 
+.hero > .hero-content p {
+  font-size: 3vw;
+}
+
 .main-heading {
   background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
   text-shadow: 7px 4px 9px rgba(0, 0, 0, 0.61);
