@@ -117,12 +117,20 @@ footer {
 }
 
 .instagram {
-  font-size: 3rem;
-  color: #fff;
+    font-size: 2rem;
+    background-color: #fff;
+    color: #333;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.instagram i {
+  margin-top: 1.5rem;
 }
 
 .instagram:hover {
-  color: rgb(205, 72, 107);
+  background-color: #333;
+  color: #fff;
   transition: 0.3s;
 }
 
