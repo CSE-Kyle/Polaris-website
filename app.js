@@ -5,7 +5,7 @@ let close = document.querySelector('span');
 
 images.forEach((img, index) => {
     img.addEventListener("click", () => {
-        openModal(`images/hanny-naibaho-festival-unsplash1.jpg`);
+        openModal(`images/img${index}.jpeg`);
     });
 });
 
