@@ -4,7 +4,7 @@ body {
   line-height: 1.5;
   min-height: 100vh;
 }
- 
+
 /* header section */
 .hero * {
   z-index: 10;
@@ -35,7 +35,7 @@ body {
   justify-content: center;
   text-align: center;
   height: 100%;
-  padding: 0 20px;
+  padding: 0 1.25rem;
 }
 
 .hero > .hero-content h1 {
@@ -92,8 +92,8 @@ iframe {
 /* photo section */
 .photo-collage {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(18.75rem, 5fr));
-  margin-top: 0.313rem;
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  margin: 0.25rem;
   gap: 0.188rem;
 }
 
@@ -159,7 +159,7 @@ footer {
   font-size: 2rem;
   background-color: #fff;
   color: #333;
-  padding: 10px;
+  padding: 0.625rem;
   border-radius: 100%;
 }
 
