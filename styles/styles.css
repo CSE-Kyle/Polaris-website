@@ -4,7 +4,7 @@ body {
   line-height: 1.5;
   min-height: 100vh;
 }
-
+ 
 /* header section */
 .hero * {
   z-index: 10;
