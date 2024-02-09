@@ -1,15 +1,12 @@
 @media screen and (max-width: 425px) {
-  .main-heading {
-    font-size: 4rem;
-  }
-
   .phrase {
     font-size: 0.8rem;
   }
 }
 
 @media screen and (max-width: 512px) and (max-width: 629px) {
-  .main-heading {
+  .main-heading,
+  .sub-heading {
     font-size: 3rem;
   }
 }
