@@ -1,10 +1,10 @@
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 26.563rem) {
   .phrase {
     font-size: 0.8rem;
   }
 }
 
-@media screen and (max-width: 512px) and (max-width: 629px) {
+@media screen and (max-width: 32rem) and (max-width: 39.313rem) {
   .main-heading,
   .sub-heading {
     font-size: 3rem;
